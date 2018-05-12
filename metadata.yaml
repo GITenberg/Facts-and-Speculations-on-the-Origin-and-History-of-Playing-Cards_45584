@@ -1,0 +1,33 @@
+_repo: Facts-and-Speculations-on-the-Origin-and-History-of-Playing-Cards_45584
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45584-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chatto, William Andrew
+    aliases:
+    - Oliver, Stephen
+    - Chatto, William A. (William Andrew)
+    - Fume, Joseph
+    - Fisher, P.
+    - Chatto, W. A. (William Andrew)
+    birthdate: 1799
+    deathdate: 1864
+    gutenberg_agent_id: '41838'
+    url: http://www.gutenberg.org/2009/agents/41838
+description: ''
+gutenberg_issued: '2014-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45584'
+  lccn: 05029634
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Playing cards -- History'
+- !lcc 'GV'
+title: Facts and Speculations on the Origin and History of Playing Cards
+url: http://www.gutenberg.org/ebooks/45584
